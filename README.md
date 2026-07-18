@@ -1,1 +1,1 @@
-its a treet app
+its a teat app
