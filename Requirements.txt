@@ -1,3 +1,3 @@
-streamli
+streamlit>=1.40
 pandas
 openpyxl
